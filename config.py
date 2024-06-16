@@ -13,6 +13,3 @@ class Config:
 
     # blob storage configuration
     account_url =os.getenv('account_url')
-
-    # upstage api key
-    upstage_api_key = os.getenv('UPSTAGE_API_KEY')
